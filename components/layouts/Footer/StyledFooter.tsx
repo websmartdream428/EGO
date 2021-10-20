@@ -9,4 +9,5 @@ export const FooterDiv = styled.div`
   font-weight: 500;
   font-family: SANS-SERIF;
   font-style: normal;
+  margin-top: 10px;
 `;
