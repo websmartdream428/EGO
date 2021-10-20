@@ -2,7 +2,7 @@ import React from "react";
 import { HeaderDiv } from "./StyledHeader";
 
 const Header = () => {
-  return <HeaderDiv>asdf</HeaderDiv>;
+  return <HeaderDiv>asdfasdfasdf</HeaderDiv>;
 };
 
 export default Header;
