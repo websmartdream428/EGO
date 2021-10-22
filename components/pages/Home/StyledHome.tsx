@@ -41,7 +41,8 @@ export const CptTitle = styled.div`
 `;
 
 export const CptEventDiv = styled.div`
-  display: flex;
-  grid-gap: 20px;
+  display: grid;
+  grid-template-columns: 60% 37%;
+  grid-gap: 3%;
   align-items: center;
 `;
